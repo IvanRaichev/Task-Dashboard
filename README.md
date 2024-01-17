@@ -1,5 +1,17 @@
 # <a href="https://ivanraichev.github.io/Task-Dashboard/"> One-page site Dashboard</a>
 
+- There is adaptive up to 1024px
+- Thanks to gulp build css, js and html files have been converted to faster versions [.min]
+- BEM methodology was used to write the site
+- All images are sorted into folders 
+
+## Tasks completed in the project
+
+- Style, formatting, and graphical presentation according to design
+- Adding dynamics to the page using JS/jQuery.
+- Adaptability
+
+
 ## Technology
 ![HTML5](https://img.shields.io/badge/-HTML5-e34f26?logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/-CSS3-1572b6?logo=css3&logoColor=white)
