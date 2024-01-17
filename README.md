@@ -7,6 +7,7 @@
 
 ## Tasks completed in the project
 
+- Creation of UX/UI design
 - Style, formatting, and graphical presentation according to design
 - Adding dynamics to the page using JS/jQuery.
 - Adaptability
