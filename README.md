@@ -3,7 +3,6 @@
 - There is adaptive up to 1024px
 - Thanks to gulp build css, js and html files have been converted to faster versions [.min]
 - BEM methodology was used to write the site
-- All images are sorted into folders 
 
 ## Tasks completed in the project
 
