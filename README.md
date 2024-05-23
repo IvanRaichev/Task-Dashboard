@@ -1,4 +1,4 @@
-# <a href="https://ivanraichev.github.io/Task-Dashboard/"> Dashboard-Panel </a>
+# <a href="https://ivanraichev.github.io/Task-Dashboard/"> Dashboard-Panel. </a>
 
 - There is adaptive up to 1024px
 - Thanks to gulp build css, js and html files have been converted to faster versions [.min]
